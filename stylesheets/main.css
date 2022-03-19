@@ -1,0 +1,196 @@
+h1 {
+  font-weight: 800;
+  font-size: 28px;
+  font-family: "helvetica", "Courier New", monospace;
+}
+
+.col80 {
+  width: 80%;
+}
+
+.col20 {
+  width: 10%;
+}
+
+.white {
+  color: white;
+}
+
+.topbanner {
+  background-color: firebrick;
+  width: 100%;
+  display: flex;
+  padding: 20px 24px;
+  min-width: 300px;
+}
+
+.alignright {
+  text-align: right;
+  margin: auto;
+}
+
+#login {
+  color: white;
+  font-family: "helvetica", "Courier New", monospace;
+  font-weight: bolder;
+}
+
+.midbanner {
+  background-color: dimgrey;
+  width: 100%;
+  display: flex;
+  padding: 20px 24px;
+  min-width: 300px;
+}
+
+.rightside {
+  text-align: right;
+  margin: auto;
+  width: 90%;
+}
+
+#building {
+  color: white;
+  padding-right: 15px;
+  font-family: "helvetica", "Courier New", monospace;
+}
+#art {
+  color: white;
+  padding-right: 15px;
+  font-family: "helvetica", "Courier New", monospace;
+}
+
+#featured {
+  color: white;
+  font-family: "helvetica", "Courier New", monospace;
+}
+
+.col70 {
+  width: 70%;
+
+}
+
+.col30 {
+  width: 25%
+}
+
+.leftcolumn {
+  font-weight: 800;
+}
+
+.pictures {
+  background-color: white;
+  width: 95%;
+  display: flex;
+  min-width: 300px;
+  padding: 20px 24px;
+  padding-top: 20px;
+  padding-left: 24;
+  padding-right: 24px;
+  padding-bottom: 10px;
+  margin: right;
+}
+
+img {
+  width: 100%;
+  padding-top: 22px;
+  padding-left: 22px;
+  padding-right: 80px;
+  padding-bottom: 11px;
+
+  border-radius: 4px;
+}
+
+h2 {
+
+  padding-top: 11px;
+  padding-left: 44px;
+  padding-bottom: 11px;
+  font-weight: bold;
+}
+
+#museumHeading {
+  font-family: "helvetica", "Courier New", monospace;
+  font-size: 30px;
+}
+p {
+
+  padding-top: 11px;
+  padding-left: 44px;
+  padding-bottom: 0px;
+}
+
+#paragraph {
+  font-family: "helvetica", "Courier New", monospace;
+  width: 100%;
+  font-weight: 100;
+}
+
+.rightcolumn {
+  width: 20%;
+  font-weight: 600;
+  text-align: right;
+  margin: auto;
+}
+
+#image2text {
+  font-family: "helvetica", "Courier New", monospace;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+#image2 {
+  font-family: "helvetica", "Courier New", monospace;
+  width: 105%;
+  padding-top: 15px;
+  padding-left: 50px;
+  padding-right: 0px;
+  padding-bottom: 60px;
+}
+
+#image3text {
+  font-family: "helvetica", "Courier New", monospace;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+#image3 {
+  width: 105%;
+  padding-top: 15px;
+  padding-left: 50px;
+  padding-right: 0px;
+  padding-bottom: 60px;
+}
+
+#image4text {
+  font-family: "helvetica", "Courier New", monospace;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+#image4 {
+  width: 105%;
+  padding-top: 15px;
+  padding-left: 50px;
+  padding-right: 0px;
+  padding-bottom: 60px;
+}
+
+.footer {
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: dimgrey;
+  text-align: left;
+}
+
+#footerWords {
+  font-family: "helvetica", "Courier New", monospace;
+  color: white;
+  padding: 25px;
+}
